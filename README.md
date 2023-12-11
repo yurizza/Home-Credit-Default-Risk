@@ -22,3 +22,12 @@ Conclusion :
 Logistic Regression
 - Evaluasi model XGBoost Classifier menunjukkan bahwa meskipun akurasinya tinggi (91%), model mengalami kesulitan dalam mengidentifikasi dengan tepat kasus positif (risiko default pada Home Credit) dengan nilai recall yang rendah (12%), sementara tingkat presisinya cukup (40%). Nilai F1-Score sebesar 18% mencerminkan keseimbangan antara presisi dan recall. Meski begitu, AUC dari Kurva ROC yang tinggi (0,76) menunjukkan kemampuan model dalam membedakan dengan baik antara kasus positif dan negatif. Dalam konteks risiko kredit Home Credit, perlu pertimbangan lebih lanjut untuk meningkatkan kemampuan model dalam mengenali kasus default dengan lebih akurat.
 XGBoost Classifier
+
+Business Recomendation
+
+    Conduct a campaign to attract the interest of potential applicants aged over 40.
+    Launch a campaign that can attract the interest of those with high education.
+    Be cautious with applicants who have a lower ext source 3, and seek out applicants with a high ext source 3.
+    Provide special offers to applicants who apply on SUNDAY.
+    Continuously engage with applicants to encourage repeated applications.
+    Evaluate applicants who cancel and those with unused offers.
